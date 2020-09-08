@@ -1,9 +1,0 @@
-Package: boost-core
-Version: 1.73.0
-Depends: boost-config, boost-vcpkg-helpers
-Architecture: x64-osx
-Multi-Arch: same
-Abi: 0081059c1f06f5daf69d2a2b6740803021281cc0
-Description: Boost core module
-Type: Port
-Status: install ok half-installed

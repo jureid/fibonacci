@@ -1,9 +1,0 @@
-Package: boost-io
-Version: 1.73.0
-Depends: boost-config, boost-vcpkg-helpers
-Architecture: x64-osx
-Multi-Arch: same
-Abi: 42fa82d500ab5156083fe404a743fccea4ca6bda
-Description: Boost io module
-Type: Port
-Status: install ok half-installed
