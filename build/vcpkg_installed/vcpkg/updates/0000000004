@@ -1,0 +1,9 @@
+Package: boost-compatibility
+Version: 1.73.0
+Depends: boost-vcpkg-helpers
+Architecture: x64-osx
+Multi-Arch: same
+Abi: ffe2c7e484ef46bc1fa670f54be4538bca4a75b0
+Description: Boost compatibility module
+Type: Port
+Status: install ok half-installed

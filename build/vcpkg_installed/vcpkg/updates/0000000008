@@ -1,0 +1,9 @@
+Package: boost-assert
+Version: 1.73.0
+Depends: boost-config, boost-vcpkg-helpers
+Architecture: x64-osx
+Multi-Arch: same
+Abi: 848a116f71fd740013023136e24ee738f63214f7
+Description: Boost assert module
+Type: Port
+Status: install ok half-installed

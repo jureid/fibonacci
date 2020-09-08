@@ -1,0 +1,8 @@
+Package: boost-uninstall
+Version: 1.73.0
+Architecture: x64-osx
+Multi-Arch: same
+Abi: f817106d1f6c8f78abd5e9a5122b89642a4bcdde
+Description: boost uninstall port
+Type: Port
+Status: install ok half-installed
