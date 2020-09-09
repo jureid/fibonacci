@@ -1,6 +1,12 @@
 #include <fmt/format.h>
 #include <cppitertools/itertools.hpp>
 
+/**
+ * @brief sample fibonacci program
+ * 
+ * @param n 
+ * @return int 
+ */
 int fib(int n) {
 	int a = 0, b = 1;
 
